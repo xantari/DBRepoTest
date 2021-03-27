@@ -27,6 +27,19 @@
       "DownloadCount": 0,
       "Rating": 0,
       "LastModifiedDateUtc": "2021-03-27T21:42:44.6362362Z"
+    },
+    {
+      "Id": 3,
+      "MajorCategory": "Unknown",
+      "Url": "https://www.fauxnews.com",
+      "Title": "Faux News",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-27T21:50:41.9948245Z"
     }
   ]
 }
