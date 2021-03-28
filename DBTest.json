@@ -1,5 +1,5 @@
 {
-  "LastUpdateDateUtc": "0001-01-01T00:00:00",
+  "LastUpdateDateUtc": "2021-03-28T19:28:11.8189963Z",
   "DatabaseFormatVersion": 1,
   "Entries": [
     {
@@ -16,6 +16,9 @@
       "LastModifiedDateUtc": "2021-03-27T20:48:16.3238453Z",
       "Tags": [
         "Test"
+      ],
+      "RelatedEntries": [
+        2
       ]
     },
     {
@@ -29,13 +32,16 @@
       "FileSizeBytes": 0,
       "DownloadCount": 0,
       "Rating": 0,
-      "LastModifiedDateUtc": "2021-03-27T21:42:44.6362362Z"
+      "LastModifiedDateUtc": "2021-03-27T21:42:44.6362362Z",
+      "RelatedEntries": [
+        3
+      ]
     },
     {
       "Id": 3,
       "MajorCategory": "Unknown",
       "Url": "https://www.fauxnews.com",
-      "Title": "Faux News",
+      "Title": "Faux News 2",
       "FileName": "",
       "Year": 0,
       "Players": 0,
@@ -43,6 +49,246 @@
       "DownloadCount": 0,
       "Rating": 0,
       "LastModifiedDateUtc": "2021-03-27T21:50:41.9948245Z"
+    },
+    {
+      "Id": 4,
+      "MajorCategory": "Unknown",
+      "Url": "https://www.somewhere.com",
+      "Title": "Somewhere",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T18:56:43.3496873Z",
+      "RelatedEntries": [
+        9
+      ]
+    },
+    {
+      "Id": 5,
+      "MajorCategory": "Unknown",
+      "Url": "https://www.foo.com",
+      "Title": "Foo",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T18:59:55.2417909Z",
+      "RelatedEntries": [
+        7,
+        11,
+        14
+      ]
+    },
+    {
+      "Id": 6,
+      "MajorCategory": "Unknown",
+      "Url": "https://www.foo.comasdf",
+      "Title": "another foo",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:00:39.8879334Z"
+    },
+    {
+      "Id": 7,
+      "MajorCategory": "Unknown",
+      "Url": "https://www.foo.com",
+      "Title": "https://www.foo.com",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:01:40.3841251Z"
+    },
+    {
+      "Id": 8,
+      "MajorCategory": "Unknown",
+      "Url": "https://www.food.com",
+      "Title": "food",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:02:58.3816216Z"
+    },
+    {
+      "Id": 9,
+      "MajorCategory": "Unknown",
+      "Url": "https://foo.com",
+      "Title": "https://foo.com",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:04:10.5354779Z"
+    },
+    {
+      "Id": 10,
+      "MajorCategory": "Unknown",
+      "Url": "https://foo.com",
+      "Title": "https://foo.com",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:05:05.2104439Z"
+    },
+    {
+      "Id": 11,
+      "MajorCategory": "Unknown",
+      "Url": "https://foo.com",
+      "Title": "https://foo.com",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:06:14.1137443Z"
+    },
+    {
+      "Id": 12,
+      "MajorCategory": "Unknown",
+      "Url": "https://www.fo.com",
+      "Title": "https://www.fo.com",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:10:56.3442646Z"
+    },
+    {
+      "Id": 13,
+      "MajorCategory": "Unknown",
+      "Url": "https://www.foo.com",
+      "Title": "https://www.foo.com",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:12:42.0973502Z"
+    },
+    {
+      "Id": 14,
+      "MajorCategory": "Unknown",
+      "Url": "https://www.foo.com",
+      "Title": "https://www.foo.com",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:13:34.6567604Z"
+    },
+    {
+      "Id": 15,
+      "MajorCategory": "Unknown",
+      "Url": "https://www.foo.com",
+      "Title": "https://www.foo.com",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:14:51.2594302Z"
+    },
+    {
+      "Id": 16,
+      "MajorCategory": "Unknown",
+      "Url": "https://www.foo.com",
+      "Title": "https://www.foo.com",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:15:13.7087497Z"
+    },
+    {
+      "Id": 17,
+      "MajorCategory": "Unknown",
+      "Url": "https://somewhere.com",
+      "Title": "https://somewhere.com",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:18:42.7325209Z"
+    },
+    {
+      "Id": 18,
+      "MajorCategory": "Unknown",
+      "Url": "https://blah.com",
+      "Title": "blah",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:21:01.2754429Z"
+    },
+    {
+      "Id": 19,
+      "MajorCategory": "Unknown",
+      "Url": "https://asdfasdf.com",
+      "Title": "https://asdfasdf.com",
+      "FileName": "",
+      "Description": "",
+      "ChangeLog": "",
+      "Authors": "",
+      "Version": "",
+      "Features": "",
+      "Manufacturer": "",
+      "Year": 0,
+      "Players": 0,
+      "Theme": "",
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:27:48.5321549Z",
+      "Tags": []
+    },
+    {
+      "Id": 20,
+      "MajorCategory": "Unknown",
+      "Url": "https://asdfasdf.com",
+      "Title": "https://asdfasdf.com",
+      "FileName": "",
+      "Year": 0,
+      "Players": 0,
+      "FileSizeBytes": 0,
+      "DownloadCount": 0,
+      "Rating": 0,
+      "LastModifiedDateUtc": "2021-03-28T19:28:02.7722186Z",
+      "RelatedEntries": [
+        3
+      ]
     }
   ]
 }
