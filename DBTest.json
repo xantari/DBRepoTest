@@ -1,5 +1,5 @@
 {
-  "LastRefreshDateUtc": "2021-03-27T19:47:38.1024977Z",
+  "LastUpdateDateUtc": "0001-01-01T00:00:00",
   "DatabaseFormatVersion": 1,
   "Entries": [
     {
@@ -13,7 +13,10 @@
       "FileSizeBytes": 0,
       "DownloadCount": 0,
       "Rating": 0,
-      "LastModifiedDateUtc": "2021-03-27T20:48:16.3238453Z"
+      "LastModifiedDateUtc": "2021-03-27T20:48:16.3238453Z",
+      "Tags": [
+        "Test"
+      ]
     },
     {
       "Id": 2,
