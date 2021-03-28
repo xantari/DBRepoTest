@@ -1,5 +1,5 @@
 {
-  "LastUpdateDateUtc": "2021-03-28T19:28:11.8189963Z",
+  "LastUpdateDateUtc": "2021-03-28T22:18:40.6738593Z",
   "DatabaseFormatVersion": 1,
   "Entries": [
     {
@@ -259,20 +259,12 @@
       "Url": "https://asdfasdf.com",
       "Title": "https://asdfasdf.com",
       "FileName": "",
-      "Description": "",
-      "ChangeLog": "",
-      "Authors": "",
-      "Version": "",
-      "Features": "",
-      "Manufacturer": "",
       "Year": 0,
       "Players": 0,
-      "Theme": "",
       "FileSizeBytes": 0,
       "DownloadCount": 0,
       "Rating": 0,
-      "LastModifiedDateUtc": "2021-03-28T19:27:48.5321549Z",
-      "Tags": []
+      "LastModifiedDateUtc": "2021-03-28T19:27:48.5321549Z"
     },
     {
       "Id": 20,
